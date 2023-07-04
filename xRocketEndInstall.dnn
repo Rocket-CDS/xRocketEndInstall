@@ -55,7 +55,7 @@
               <sourceFileName>Dnn.PersonaBar\Modules\RocketCDS\css\RocketCDS.css</sourceFileName>
             </file>
             <file>
-              <name>DesktopModules\Admin\Dnn.PersonaBar\Modules\RocketCDS\script\RocketCDS.js</name>
+              <name>DesktopModules\Admin\Dnn.PersonaBar\Modules\RocketCDS\scripts\RocketCDS.js</name>
               <sourceFileName>Dnn.PersonaBar\Modules\RocketCDS\scripts\RocketCDS.js</sourceFileName>
             </file>
             <file>
