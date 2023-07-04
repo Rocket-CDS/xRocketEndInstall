@@ -40,7 +40,24 @@
 
         <component type="File">
           <files>
-            <basePath>\DesktopModules\Admin\Dnn.PersonaBar\images</basePath>
+
+		        <basePath>\</basePath>
+		        <file>
+			        <name>/DesktopModules/Admin/Dnn.PersonaBar/Modules/RocketCDS/App_LocalResources/RocketCDS.resx</name>
+              <sourceFileName>Dnn.PersonaBar\Modules\RocketCDS\App_LocalResources\RocketCDS.resx</sourceFileName>
+		        </file>
+            <file>
+              <name>/DesktopModules/Admin/Dnn.PersonaBar/Modules/RocketCDS/css/RocketCDS.css</name>
+              <sourceFileName>Dnn.PersonaBar\Modules\RocketCDS\css\RocketCDS.css</sourceFileName>
+            </file>
+            <file>
+              <name>/DesktopModules/Admin/Dnn.PersonaBar/Modules/RocketCDS/script/RocketCDS.js</name>
+              <sourceFileName>Dnn.PersonaBar\Modules\RocketCDS\scripts\RocketCDS.js</sourceFileName>
+            </file>
+            <file>
+              <name>/DesktopModules/Admin/Dnn.PersonaBar/Modules/RocketCDS/RocketCDS.html</name>
+              <sourceFileName>Dnn.PersonaBar\Modules\RocketCDS\RocketCDS.html</sourceFileName>
+            </file>
             <file>
               <name>Logo.svg</name>
               <sourceFileName>rocketcds-logo.svg</sourceFileName>
