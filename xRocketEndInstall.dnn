@@ -1,7 +1,7 @@
 ﻿<dotnetnuke type="Package" version="5.0">
 	<packages>
     
-		<package name="xRocketEndInstall" type="Library" version="1.0.0">
+		<package name="xRocketEndInstall" type="Library" version="1.0.1">
 			<friendlyName>xRocketEndInstall</friendlyName>
 			<description>xRocketEndInstall - Do any processing to finish RocketCDs installation.</description>
       <iconFile></iconFile>
@@ -27,7 +27,17 @@
       </dependencies>
             
       <components>
-        
+
+        <component type="Script">
+          <scripts>
+            <basePath>DesktopModules\DNNrocket</basePath>
+            <script type="Install">
+              <name>01.00.01.SqlDataProvider</name>
+              <version>01.00.01</version>
+            </script>
+          </scripts>
+        </component>
+
         <component type="File">
           <files>
             <basePath>\DesktopModules\Admin\Dnn.PersonaBar\images</basePath>

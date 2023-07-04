@@ -1,0 +1,21 @@
+﻿/************************************************************/
+/*****              SqlDataProvider                     *****/
+/************************************************************/
+
+-------------------------------------------------------------------------------
+--------------                       PERSONABAR                    ------------
+-------------------------------------------------------------------------------
+
+insert into {databaseOwner}[{objectQualifier}PersonaBarMenu] (
+    Identifier, ModuleName, ResourceKey, 
+    [Path], ParentId, [Order], 
+    AllowHost, [Enabled])
+values(
+    'RocketCDS', 'RocketCDS', 'nav_RocketCDS', 
+    'RocketCDS', 2, 999, 
+    1, 1)
+
+
+GO
+
+
