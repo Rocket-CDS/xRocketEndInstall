@@ -12,3 +12,4 @@ To build the install package, zip the files into a zip file called "xRocketEndIn
 2. Unzip into a folder.
 3. Zip the files on the root of the repo as the root of the package release zip, include subfolders.
 
+The zip file name should be "xRocketEndInstall.zip"
