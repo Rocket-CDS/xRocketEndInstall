@@ -1,7 +1,7 @@
 ﻿<dotnetnuke type="Package" version="5.0">
 	<packages>
     
-		<package name="xRocketEndInstall" type="Library" version="1.0.1">
+		<package name="xRocketEndInstall" type="Library" version="1.0.2">
 			<friendlyName>xRocketEndInstall</friendlyName>
 			<description>xRocketEndInstall - Do any processing to finish RocketCDs installation.</description>
       <iconFile></iconFile>
@@ -23,7 +23,6 @@
 
       <dependencies>
         <dependency type="CoreVersion">09.00.00</dependency>
-        <dependency type="managedPackage" version="1.0.0">RocketSystem</dependency>
       </dependencies>
             
       <components>
