@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="nav_RocketCDS.Text" xml:space="preserve">
-    <value>&lt;span style='color: #02bd8e;font-size:14px;'&gt;Rocket Admin&lt;/span&gt;</value>
+  <data name="nav_RocketClearCache.Text" xml:space="preserve">
+    <value>Clear Cache</value>
   </data>
 </root>
