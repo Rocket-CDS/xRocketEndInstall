@@ -14,6 +14,8 @@
 <script type="text/javascript">
 
     $(document).ready(function () {
+        var lang = simplisity_getCookieValue('language');
+        simplisity_setCookieValue('simplisity_language', lang);
         $('#adminpanel').getSimplisity('/Desktopmodules/dnnrocket/api/rocket/action', 'dashboard_adminpanel', '{"systemkey":"rocketportal"}', '')
     });
 
