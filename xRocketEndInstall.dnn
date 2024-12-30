@@ -1,7 +1,7 @@
 ﻿<dotnetnuke type="Package" version="5.0">
 	<packages>
     
-		<package name="xRocketEndInstall" type="Library" version="1.0.4">
+		<package name="xRocketEndInstall" type="Library" version="1.0.5">
 			<friendlyName>xRocketEndInstall</friendlyName>
 			<description>xRocketEndInstall - Do any processing to finish RocketCDs installation.</description>
       <iconFile></iconFile>
@@ -96,16 +96,24 @@
 
 
 			  <file>
-				  <name>bin\Magick.Native-Q8-x64.dll</name>
-				  <sourceFileName>Magick.Native-Q8-x64.dll</sourceFileName>
-			  </file>
-			  <file>
 				  <name>bin\Magick.NET.Core.dll</name>
 				  <sourceFileName>Magick.NET.Core.dll</sourceFileName>
 			  </file>
 			  <file>
 				  <name>bin\Magick.NET-Q8-AnyCPU.dll</name>
 				  <sourceFileName>Magick.NET-Q8-AnyCPU.dll</sourceFileName>
+			  </file>
+			  <file>
+				  <name>bin\ThoughtWorks.QRCode.dll</name>
+				  <sourceFileName>ThoughtWorks.QRCode.dll</sourceFileName>
+			  </file>
+			  <file>
+				  <name>bin\RazorEngine.dll</name>
+				  <sourceFileName>RazorEngine.dll</sourceFileName>
+			  </file>
+			  <file>
+				  <name>bin\Magick.Native-Q8-x64.dll</name>
+				  <sourceFileName>Magick.Native-Q8-x64.dll</sourceFileName>
 			  </file>
 
 		  </files>

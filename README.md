@@ -22,6 +22,9 @@ Due to an assembly being locked when used this install package has been created 
 
 ### Upgrade Magick
 If an upgrade of the Magick assemblies are required then the AppPool should be restarted and the first operation after should be to install this packaged, this will avoid the file lock issue.  
+
+**NOTE: A Restart from DNN does not always work, in such case recycle the AppPool from IIS**  
+
 ### Alternative Upgrade Magick
 - Stop the AppPool.
 - Copy the Assemblies to the \bin folder of the installation.
