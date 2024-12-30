@@ -95,31 +95,21 @@
 			  </file>
 
 
+			  <file>
+				  <name>bin\Magick.Native-Q8-x64.dll</name>
+				  <sourceFileName>Magick.Native-Q8-x64.dll</sourceFileName>
+			  </file>
+			  <file>
+				  <name>bin\Magick.NET.Core.dll</name>
+				  <sourceFileName>Magick.NET.Core.dll</sourceFileName>
+			  </file>
+			  <file>
+				  <name>bin\Magick.NET-Q8-AnyCPU.dll</name>
+				  <sourceFileName>Magick.NET-Q8-AnyCPU.dll</sourceFileName>
+			  </file>
 
 		  </files>
         </component>
-
-		  <component type="Assembly">
-			<assemblies>
-
-				<assembly>
-					<path>bin</path>
-					<name>Magick.Native-Q8-x64.dll</name>
-					<sourceFileName>Magick.Native-Q8-x64.dll</sourceFileName>
-				</assembly>
-				<assembly>
-					<path>bin</path>
-					<name>Magick.NET.Core.dll</name>
-					<sourceFileName>Magick.NET.Core.dll</sourceFileName>
-				</assembly>
-				<assembly>
-					<path>bin</path>
-					<name>Magick.NET-Q8-AnyCPU.dll</name>
-					<sourceFileName>Magick.NET-Q8-AnyCPU.dll</sourceFileName>
-				</assembly>
-
-			</assemblies>
-		</component>
 
       </components>
 		</package>
