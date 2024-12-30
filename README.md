@@ -40,3 +40,9 @@ Magick.NET-Q8-AnyCPU.dll
 https://github.com/dlemstra/Magick.NET
 
 *No compile is required*
+
+## ThoughtWorks.QRCode.dll
+This is to reduce the size of the DNNrocket install package. ThoughtWorks.QRCode.dll is fairly large and should not need upgrading often.
+
+## RazorEngine.dll
+This is a razorengine compilation, it's in .Net Framework and should not need upgrading.
